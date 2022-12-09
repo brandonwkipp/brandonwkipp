@@ -1,7 +1,10 @@
-### Hi there 👋
-I should do more open source projects.
+### Good evening Netizen 👋
+My name is Brandon. How can I help you?
 
 ### What am I up to?
- - Exploring [orca](https://github.com/hundredrabbits/orca)
- - Learning `vim` (this is going slower than I'd like)
- - Finishing up a `python` based air-quailty monitoring system with my Dad
+- Setting up my dream workstation meant for music production and coding 
+- Forcing myself to use `vim` (starting to get used to it)
+- Exploring [orca](https://github.com/hundredrabbits/orca)
+
+
+BTW, I use Arch...
