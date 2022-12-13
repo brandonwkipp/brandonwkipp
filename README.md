@@ -1,5 +1,4 @@
-## BTW
-[I use Arch](https://github.com/brandonwkipp/btw-i-use-arch)
+## BTW [I use Arch](https://github.com/brandonwkipp/btw-i-use-arch)
 
 ### Good evening Netizen 👋
 My name is Brandon. How can I help you?
