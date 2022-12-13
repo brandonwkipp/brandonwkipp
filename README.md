@@ -1,4 +1,4 @@
-# BTW
+## BTW
 [I use Arch](https://github.com/brandonwkipp/btw-i-use-arch)
 
 ### Good evening Netizen 👋
