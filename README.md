@@ -7,4 +7,3 @@ My name is Brandon. How can I help you?
 - Working on a VST3 plugin
 - Exploring the state of audio on Linux
 - Using `vim` quite a lot
-- Learning `rust` by rewriting [reciprocator](https://github.com/brandonwkipp/reciprocator) in it
